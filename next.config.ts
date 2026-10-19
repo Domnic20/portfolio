@@ -13,10 +13,7 @@ const nextConfig: NextConfig = {
         hostname: "avatars.githubusercontent.com",
       },
     ],
-  },
-  experimental: {
-    optimizeCss: true,
-  },
+  }
 };
 
 export default nextConfig;
